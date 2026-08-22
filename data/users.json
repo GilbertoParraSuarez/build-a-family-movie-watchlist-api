@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"David Miller","username":"dad_miller","role":"parent","passwordHash":"$2b$10$df1hDKR.sOHXZ9Rpvc5Pe.f5iKlyy6WDEgPq5Z1ae5OPmLBbA51mK"},
+  {"id":2,"name":"Sarah Miller","username":"mom_miller","role":"parent","passwordHash":"$2b$10$0dI3KjR/uOudFJB9gRPfOuF9DZRLCWQOLUUOnpfq/9LgLR9MhY8B6"},
+  {"id":3,"name":"Jake Miller","username":"jake_miller","role":"child","passwordHash":"$2b$10$L62dY061IH89Y4wUaW6tZea1xc9W9uSPduKYJng/nz4zY1i0dmKEO"},
+  {"id":4,"name":"Sophie Miller","username":"sophie_miller","role":"child","passwordHash":"$2b$10$do6qb..866kHlbXO9PO36um54WmXDj8fEE89zLXoh2mOhv7/XyzCK"}
+]
